@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "JobOK",
-    "slug": "JobOK",
+    "slug": "jobok",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3db50651-c8d4-4fcf-8be3-838b4a2999f3"
+      }
+    },
+    "owner": "namsunahk"
   }
 }
