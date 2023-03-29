@@ -17,12 +17,12 @@ export const ButtonText = styled(Text)`
   text-align: center;
 `;
 
-export const RegisterScreen = ({ navigation }) => {
+export const HomeScreen = ({ navigation }) => {
   return (
     <SafeAreaFull>
       <View style={styles.container}>
         <SignInButton>
-          <ButtonText>Register</ButtonText>
+          <ButtonText>Home</ButtonText>
         </SignInButton>
       </View>
     </SafeAreaFull>

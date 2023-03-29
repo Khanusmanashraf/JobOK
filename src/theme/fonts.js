@@ -1,5 +1,5 @@
 export const fonts = {
-  body: "Barlow_400Regular",
+  body: "Barlow_500Medium",
   heading: "Barlow_400Regular",
   monospace: "Barlow_400Regular",
 };
@@ -11,9 +11,9 @@ export const fontWeights = {
 };
 
 export const fontSizes = {
-  caption: "12px",
-  button: "14px",
-  body: "16px",
+  caption: "16px",
+  button: "18px",
+  body: "18px",
   title: "20px",
   h5: "24px",
   h4: "34pc",
